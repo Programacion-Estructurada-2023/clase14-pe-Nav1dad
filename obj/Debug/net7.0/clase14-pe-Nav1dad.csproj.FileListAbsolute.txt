@@ -1,0 +1,14 @@
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\bin\Debug\net7.0\clase14-pe-Nav1dad.exe
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\bin\Debug\net7.0\clase14-pe-Nav1dad.deps.json
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\bin\Debug\net7.0\clase14-pe-Nav1dad.runtimeconfig.json
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\bin\Debug\net7.0\clase14-pe-Nav1dad.dll
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\bin\Debug\net7.0\clase14-pe-Nav1dad.pdb
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\clase14-pe-Nav1dad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\clase14-pe-Nav1dad.AssemblyInfoInputs.cache
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\clase14-pe-Nav1dad.AssemblyInfo.cs
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\clase14-pe-Nav1dad.csproj.CoreCompileInputs.cache
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\clase14-pe-Nav1dad.dll
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\refint\clase14-pe-Nav1dad.dll
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\clase14-pe-Nav1dad.pdb
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\clase14-pe-Nav1dad.genruntimeconfig.cache
+C:\Users\Navidad\Desktop\TAREAS U 2023 SICLO II\Programacion estructurada\clase 14 sintaxis de estructuras repetitivas\clase14-pe-Nav1dad\obj\Debug\net7.0\ref\clase14-pe-Nav1dad.dll
